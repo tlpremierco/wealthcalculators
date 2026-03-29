@@ -2554,7 +2554,7 @@ export default function App(){
       <div style={{minHeight:"100vh",background:"#0F1923",display:"flex",alignItems:"center",justifyContent:"center",padding:20}}>
         <div style={{background:"#080F18",border:"1px solid #1A2535",borderRadius:14,padding:"40px 36px",width:"100%",maxWidth:380,textAlign:"center"}}>
           <div style={{fontFamily:"'Libre Baskerville',serif",fontSize:22,fontWeight:700,color:"#E8C97A",marginBottom:6}}>TL Premier</div>
-          <div style={{fontSize:10,letterSpacing:3,textTransform:"uppercase",color:"#3A5268",marginBottom:32}}>Wealth Calculator Suite</div>
+          <div style={{fontSize:10,letterSpacing:3,textTransform:"uppercase",color:"#3A5268",marginBottom:32}}>Legacy Calculators</div>
           <div style={{fontSize:11,color:"#3A5268",marginBottom:12,letterSpacing:1,textTransform:"uppercase"}}>Family Access</div>
           <input
             type="password"
@@ -2590,8 +2590,8 @@ export default function App(){
       <div className="app">
         <header className="hdr">
           <div>
-            <div className="hdr-logo">TL Premier · Wealth Suite</div>
-            <div className="hdr-tag">Construction & Real Estate Family</div>
+            <div className="hdr-logo">Legacy Calculators</div>
+            <div className="hdr-tag">Family Wealth & Construction Suite</div>
           </div>
           <div className="hdr-right">Built for decisions</div>
         </header>
